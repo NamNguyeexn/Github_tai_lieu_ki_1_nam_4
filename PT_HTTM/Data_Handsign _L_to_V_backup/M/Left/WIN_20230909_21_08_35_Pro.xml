@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Left</folder>
+	<filename>WIN_20230909_21_08_35_Pro.jpg</filename>
+	<path>D:\Tai_lieu_ki_1_nam_4\PT_HTTM\Data_Handsign\M\Left\WIN_20230909_21_08_35_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>796</xmin>
+			<ymin>147</ymin>
+			<xmax>1104</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

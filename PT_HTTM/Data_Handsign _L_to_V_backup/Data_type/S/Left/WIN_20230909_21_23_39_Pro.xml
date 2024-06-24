@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Left</folder>
+	<filename>WIN_20230909_21_23_39_Pro.jpg</filename>
+	<path>D:\Tai_lieu_ki_1_nam_4\PT_HTTM\Data_Handsign\S\Left\WIN_20230909_21_23_39_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>s</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>816</xmin>
+			<ymin>327</ymin>
+			<xmax>1213</xmax>
+			<ymax>676</ymax>
+		</bndbox>
+	</object>
+</annotation>

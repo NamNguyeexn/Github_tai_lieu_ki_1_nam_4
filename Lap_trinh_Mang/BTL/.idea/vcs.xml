@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ARP_CPP/arp_spoof_with_winpcap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArpSpoofingAttack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArpSpoofingAttack/pcap4j" vcs="Git" />
+  </component>
+</project>

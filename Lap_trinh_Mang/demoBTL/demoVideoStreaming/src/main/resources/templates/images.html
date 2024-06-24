@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hiển thị ảnh từ server</title>
+</head>
+<body>
+<img id="image" src="" alt="Ảnh từ server">
+
+<script>
+    const socket = new WebSocket('ws://localhost:8080/image-socket');
+
+    socket.onmessage = function (event) {
+        const imageURL = URL.createObjectURL(event.data);
+        const imageElement = document.getElementById('image');
+        imageElement.src = imageURL;
+    };
+</script>
+</body>
+</html>
